@@ -1,6 +1,6 @@
 ## Oi! sou o Lucas carvalho
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Lucas Carvalho!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Lucas!;" />
 </h1>
 
 - Sempre me enteressei por eletrônica. Nunca imaginei que chegaria a trabalhar com isso, mas fico feliz por estar aqui.
