@@ -2,8 +2,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!;+me+chamo+Lucas+carvalho!;&color=%23FFA500" />
 </h1>
 <div align="center">
-- Sempre me enteressei por eletrônica. Nunca imaginei que chegaria a trabalhar com isso, mas fico feliz por estar aqui.
-- Estou cursando o curso de ADS.
+- Sempre me enteressei por eletrônica. Nunca imaginei que chegaria a trabalhar com isso, mas fico feliz por estar aqui.<br>
+- Estou cursando o curso de ADS.<br>
 - Você sabia que o primeiro bug da história da computação foi, literalmente, um inseto ?
 </div>
   
