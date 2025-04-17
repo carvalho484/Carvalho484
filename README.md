@@ -24,6 +24,9 @@
   <a href="https://www.linkedin.com/in/lucas-carvalho-13301634a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<img src="https://raw.githubusercontent.com/carvalho484/carvalho484/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+</div>
 
 ###
