@@ -7,6 +7,7 @@
 - Você sabia que o primeiro bug da história da computação foi, literalmente, um inseto ?
 <h2 align="center" >⚡Stats⚡</h2>
 <br>
+<div align="center" >
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=carvalho484&show_icons=true&theme=dark"
@@ -18,7 +19,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=carvalho484&show_icons=true" />
 </picture>
-
+</div>
 <div> 
   <a href="https://instagram.com/lucas_carvalho.d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucascarvalhoptc09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
