@@ -3,6 +3,8 @@
     OLA! MEU NOME É LUCAS CARVALHO
   </h1>
 </div>
+
+<div align="center">
 - Sempre me enteressei por eletrônica. Nunca imaginei que chegaria a trabalhar com isso, mas fico feliz por estar aqui.<br>
 - Estou cursando o curso de ADS.<br>
 - Você sabia que o primeiro bug da história da computação foi, literalmente, um inseto ?
