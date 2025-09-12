@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/lucas-carvalho-13301634a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo"  />
   </a>
-  <a href="<a href="mailto:lucascarvalhoptc09@gmail.com">Enviar e-mail</a>" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=lucascarvalhoptc09@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="30" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/5534998029247" target="_blank">
