@@ -1,3 +1,4 @@
+
 <h1 align="center">OLA! MEU NOME É LUCAS CARVALHO</h1>
 
 ###
@@ -37,13 +38,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-carvalho-13301634a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=lucascarvalhoptc09@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="30" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="30" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/5534998029247" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="30" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="30" alt="whatsapp logo"  />
   </a>
 </div>
 
